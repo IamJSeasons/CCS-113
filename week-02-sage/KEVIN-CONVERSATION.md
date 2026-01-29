@@ -11,12 +11,12 @@ There’s an old IT trick called "Rubber Ducking" where you explain your code to
 3. Learning "AI Fluency" (Prompting)
 In 2026, knowing how to talk to an AI is just as important as knowing how to write Python. I can teach you how to write better "prompts."
 * Instead of asking: "Write a program that sorts names,"
-* I’ll teach you to ask: "Help me write a Python script that takes a list of strings, handles empty inputs, and sorts them alphabetically using a Bubble Sort logic." Learning to be specific is a superpower.
+* I’ll teach you to ask: "Help me write a Python script that takes a list of strings, handles empty inputs, and sorts them alphabetically using a Bubble Sort logic."Learning to be specific is a superpower.
 4. Code Reviews & Best Practices
 Even if your code works, it might be "messy." I can look at your assignments and give you tips on how to make them "cleaner"—better variable names, more efficient logic, or adding comments so your TA can actually understand what you were thinking.
 5. Managing the "AI Crutch"
 This is the most important one. It’s tempting to let an AI write your whole assignment, but when you hit the midterm exam and you’re staring at a blank piece of paper, you’ll be in trouble. I’ll help you use AI as a tutor, not a ghostwriter. We’ll focus on making sure you know how the code works.
-How about we start small? Do you have your syllabus yet? Or maybe a first small assignment? Tell me what language you're using (Python? Java? C++?) and we can set up your coding environment so you’re ready to rock on day one.
+How about we start small?Do you have your syllabus yet? Or maybe a first small assignment? Tell me what language you're using (Python? Java? C++?) and we can set up your coding environment so you’re ready to rock on day one.
 
 2-What should I know about working with AI assistants like you? Any tips for getting good results?
 
